@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishshments"
 subtitle = ""
 
 # Date format
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Python for Data Science and AI"
   url = ""
   certificate_url = "https://coursera.org/share/46dbcc4d788c0ee9de87beee6815943e"
-  date_start = "2018-10-01"
+  date_start = "2020"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Robotics: Aerial Robotics"
   url = ""
   certificate_url = "https://coursera.org/share/45c6a1cd07f4c99775778acb4afe48fd"
-  date_start = "2018-10-01"
+  date_start = "2020"
   date_end = ""
   description = ""
 
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://prod-cert-bucket.s3.amazonaws.com/downloads/8d6d0b63d8f44166a25c01da66fb7786/Statement.pdf"
   date_start = ""
   date_end = "2018-12-10"
-  description = "Taught by Prof David Miller, I got a substantial introduction to quantum mechanics and how to use it. I intend to read further and if possible, take the 2nd part of this course online."
+  description = """Taught by Prof David Miller, I got a substantial introduction to quantum mechanics and how to use it. I intend to read further and if possible, take the 2nd part of this course online."
   
 [[item]]
   organization = "FreeCodeCamp"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   title = "JavaScript Algorithms and Data Structures"
   url = ""
   certificate_url = "https://www.freecodecamp.org/certification/zik_t/javascript-algorithms-and-data-structures"
-  date_start = ""
+  date_start = "2019"
   date_end = "2019-02-17"
   description = ""
 
