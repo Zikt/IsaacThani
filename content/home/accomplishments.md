@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Quantum Mechanics for Scientists and Engineers"
   url = "https://online.stanford.edu/courses/soe-yeeqmse01-quantum-mechanics-scientists-and-engineers"
   certificate_url = "https://prod-cert-bucket.s3.amazonaws.com/downloads/8d6d0b63d8f44166a25c01da66fb7786/Statement.pdf"
-  date_start = ""
+  date_start = "2018"
   date_end = "2018-12-10"
   description = """Taught by Prof David Miller, I got a substantial introduction to quantum mechanics and how to use it. I intend to read further and if possible, take the 2nd part of this course online."
   
