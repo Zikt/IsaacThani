@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://prod-cert-bucket.s3.amazonaws.com/downloads/8d6d0b63d8f44166a25c01da66fb7786/Statement.pdf"
   date_start = "2018-10-03"
   date_end = "2018-12-10"
-  description = """Taught by Prof David Miller, I got a substantial introduction to quantum mechanics and how to use it. I intend to read further and if possible, take the 2nd part of this course online."
+  description = "Taught by Prof David Miller, I got a substantial introduction to quantum mechanics and how to use it. I intend to read further and if possible, take the 2nd part of this course online."
   
 [[item]]
   organization = "FreeCodeCamp"
