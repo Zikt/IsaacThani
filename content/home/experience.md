@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Student"
+  company = "Institute of Robotics and Computer Vision, Innopolis University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Innopolis, Russia"
+  date_start = "2019-08-19"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Learning fundamentals of Robotics and CV
+  * Working on Student's projects
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student Delegate"
+  company = "Student Energy"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Imperial College, London, UK."
+  date_start = "2019-07-01"
+  date_end = "2019-07-26"
+  description = """Invited as one of the 650 Delegates that participated in the Student Energy Summit 2019 at the Imperial College, London.
+  The summit included various workshops, keynotes and breakout sessions addressing key elements of the energy transition, sustainability, and climate change by seasoned professionals from Industry and Academia. Participants and Speakers came from Student Energy branches worldwide and various Institutions."""
+
+[[experience]]
+  title = "Electronics Engineering Intern"
+  company = "TD TEKO"
+  company_url = ""
+  location = "Kazan, Russia."
+  date_start = "2017-11-01"
+  date_end = "2018-09-31"
+  description = """Developed IoT Devices and Platforms"""
+
+[[experience]]
+  title = "Co-founder, CMO"
+  company = "Delat Systems"
+  company_url = ""
+  location = "Kazan, Russia."
+  date_start = "2017-01-01"
+  date_end = "2018-04-30"
+  description = """Finalist at The 3rd KAZAN OIC YOUTH
+  ENTREPRENEURSHIP FORUM. We made 3D printers for hobbyists."""
 
 +++
